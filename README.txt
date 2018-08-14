@@ -1,0 +1,1 @@
+Bish this is my first git project and it gonna be bombing I hope.
